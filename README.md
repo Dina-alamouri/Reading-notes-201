@@ -10,3 +10,4 @@ Class05.md | [Click](https://github.com/Dina-alamouri/Reading-notes-201/blob/mai
 Class07.md | [Click](https://github.com/Dina-alamouri/Reading-notes-201/blob/main/class07.md)
 Class08.md | [Click](https://github.com/Dina-alamouri/Reading-notes-201/blob/main/class08.md)
 Class09.md | [Click](https://github.com/Dina-alamouri/Reading-notes-201/blob/main/class09.md)
+Class10.md | [Click](https://github.com/Dina-alamouri/Reading-notes-201/blob/main/class10.md)
